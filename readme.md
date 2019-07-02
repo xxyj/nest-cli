@@ -16,13 +16,13 @@
 ## Installation
 
 ```bash
-$ npm install nest-cli -g
+$ npm install nest-xx-cli -g
 ```
 
 ## Start
 
 ```
-$ nest-cli myProject(目录工程名)
+$ nest-xx-cli myProject(目录工程名)
 ```
 
 ## Help
